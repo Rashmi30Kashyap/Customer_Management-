@@ -51,7 +51,12 @@ A full-stack **Customer Management System** built with **Python, Streamlit, and 
 
 ## Screenshots
 
+<img width="1379" height="768" alt="Screenshot 2025-11-01 at 10 34 24 AM" src="https://github.com/user-attachments/assets/d12796c6-de34-4a58-8466-58c8148296c4" />
 
+
+<img width="1392" height="857" alt="Screenshot 2025-11-01 at 12 08 05 PM" src="https://github.com/user-attachments/assets/4e9112ab-001b-471a-b81d-3ee3ab062276" />
+
+<img width="1369" height="760" alt="Screenshot 2025-11-01 at 11 27 19 AM" src="https://github.com/user-attachments/assets/0148849e-dd6c-4697-8970-8b0c9c43fbd5" />
 
 
 
